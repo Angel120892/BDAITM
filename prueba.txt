@@ -1,2 +1,4 @@
 Esto es para probar como se trabaja con git
 ya se modifico prueba
+
+esto fue modificado en una nueva rama (rama2)
